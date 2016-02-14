@@ -1,6 +1,5 @@
 # Assignment: Getting and Cleaning Data Course Project
 
----
 ## Purpose 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
 
@@ -8,7 +7,6 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 2. The Github repo contains the required scripts.
 3. GitHub contains a code book that indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
-----
 ## To-Do
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
